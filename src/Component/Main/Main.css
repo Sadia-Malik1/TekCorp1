@@ -1,0 +1,84 @@
+.Our-stra{
+    font-weight: 600;
+    font-size: 25px;
+    color: #060606;
+  }
+  .Our-stra2{
+    font-weight: 600;
+    font-size: 50px;
+    color: #060606;
+  }
+
+  .Our-stra2-p{
+    font-weight: 400;
+    font-size: 20px;
+    color: #323232;
+  }
+.border-secondary{
+    border: 1px solid #2d3035;
+    padding: 50px 10px!important;
+ }
+ .card-sqr{
+   width: 78px;
+   height: 78px;
+   /* padding: 6px 1px; */
+   /* font-size: 18px; */
+   color: #fff;
+   /* background: rgba(0,0,0,0.7); */
+   /* border:  1px solid #fff; */
+   background: rgba(0,0,0,0.7);
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+   /* margin-bottom: 45px; */
+   transition: all 0.3s;
+ }
+ .card-cir{
+   width: 30px;
+   height: 30px;
+   /* padding: 6px 1px; */
+   /* font-size: 18px; */
+   color: #2d3035;
+   /* background: rgba(0,0,0,0.7); */
+   border:  1px solid #2b2a2a;
+   border-radius: 50%;
+ margin-top: 10px!important;
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+   /* margin-bottom: 45px; */
+   transition: all 0.3s;
+ }
+ .borderrr{
+   margin-top: 90px!important;
+   border: 1px solid #2d3035;
+   border-radius: 30px;
+   padding: 0px 5px 0px 5px!important;
+ 
+ }
+ .borderrr-ttop{
+   margin-bottom: 150px!important;
+ 
+ 
+ }
+ 
+ .card-three-row{
+   position: relative;
+ }
+ 
+ .po-ab{
+   position: absolute;
+   bottom: 10px;
+   z-index: 1;
+ }
+ 
+ .w-90{
+   width: 90%;
+ }
+ .text-c2-p{
+    padding-top: 10px;
+    color: #959393;
+    font-size: 20px;
+    font-weight: 500;
+  }
+
