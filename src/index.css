@@ -67,14 +67,15 @@ body {
 /* Our Strategic Partners section */
 .Our-stra{
   font-weight: 600;
-  font-size: 60px;
+  font-size: 80px!important;
   color: #060606;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
   .Our-stra-p{
     font-weight: 400!important;
     font-size: 20px!important;
-  
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #343434!important;
   
   }
@@ -94,3 +95,81 @@ body {
 
  }
 
+ @media (max-width: 564px) {
+  .Our-stra{
+    font-weight: 600;
+    font-size: 40px!important;
+    color: #060606;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+    .Our-stra-p{
+      font-weight: 400!important;
+      font-size: 20px!important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: #343434!important;
+    
+    }
+    .text-2{
+      font-weight: 500!important;
+      font-size: 20px;
+      color: #fff;
+    }
+
+}
+
+ /* @media (max-width: 992px) {
+  .position-text{
+    margin-top: 30px;
+    position: absolute;
+    top: 90px!important;
+    transform: translateY(25%);
+  }
+  .header-sec-1{
+
+   height: 800px;
+   background-size:auto;
+    
+  }
+  .text-2{
+    font-weight: 600;
+    font-size: 50px;
+    color: #fff;
+  }
+
+} */
+
+/* card */
+.part{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #1d1c1c;
+}
+.trust{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #666666;
+}
+
+/* About */
+
+.About_TC{
+  color: #1BDBBA;
+  font-size: 28px;
+  font-weight: 400;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Odooo */
+.feedbackk{
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #1d1c1c;
+}
+.titlee{
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #6b6969;
+}

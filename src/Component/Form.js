@@ -28,7 +28,7 @@ const Form = () => {
                    </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-4 col-sm-12 offset-lg-2 offset-md-2 bg-white px-3 py-4 rounded-3">
+            <div className="col-lg-4 col-md-6 col-sm-12 offset-lg-2  bg-white px-3 py-4 rounded-3">
                 <p className="">Contact Us</p>
                <form >
                 <div className="mb-2">

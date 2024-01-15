@@ -27,7 +27,7 @@ const Portfolio = () => {
                 <div className="col-lg-6 col-md-6 col-sm-12">
                     <img src="https://unblast.com/wp-content/uploads/2023/05/Stylized-Laptop-Mockup-1536x1152.jpg" alt="im" className="img-fluid img-width"/>
                   <h5 className="Web-Design">Web Design- </h5>
-                  <h4 className="">High-performing digital products with great designs</h4>     
+                  <h4 className="High-performing2">High-performing digital products with great designs</h4>     
                 </div> 
                 <div className="col-lg-6 col-md-6 col-sm-12">
                     <img src="https://unblast.com/wp-content/uploads/2023/05/Stylized-Laptop-Mockup-1536x1152.jpg" alt="im" className="img-fluid img-width"/>
@@ -57,15 +57,17 @@ const Portfolio = () => {
              </section>
         </section>
 
+        <section className="container-fluid bg-light py-5">
         <section className="container mb-4">
 
-          <div className="p-lg-5 p-lg-5">
-            <img src="https://unblast.com/wp-content/uploads/2020/01/Apple-iPhone-11-Macbook-Pro-Mockup-2-1536x1141.jpg" alt="yu" className="img-fluid img-width3"/>
-          </div>
-          <div>
-          <h5 className="Web-Design">Web Design- </h5>
-                <h4 className="">High-performing digital products with great designs</h4>     
-          </div>
+<div className="p-lg-5 p-lg-5 rounded">
+  <img src="https://unblast.com/wp-content/uploads/2020/01/Apple-iPhone-11-Macbook-Pro-Mockup-2-1536x1141.jpg" alt="yu" className="img-fluid img-width3 rounded"/>
+</div>
+<div>
+<h5 className="Web-Design">Web Design- </h5>
+      <h4 className="">High-performing digital products with great designs</h4>     
+</div>
+</section>
         </section>
         <section className="container mt-5 mb-5">
         <div>
