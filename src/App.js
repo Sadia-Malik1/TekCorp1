@@ -15,7 +15,7 @@ import Discover from './Component/Discover/Discover';
 import Insights from './Component/Insights/Insights';
 
 
-// import HeaderTop from '/Component/OurSolution/HeaderTop';
+
 
 
 function App(){
@@ -35,6 +35,7 @@ function App(){
         <Route  path="/Insights" element = {<><Insights/>   <Footer/> </>} />
         {/* <Route exact path="/" element={<Footer/>} /> */}
      
+
      </Routes>
     </div>
   );
